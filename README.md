@@ -1,5 +1,5 @@
 # CNC
-CNC Maduixa
+CNC Maduixa basado en Marlin RC8
 Firmware para Fresadora CNC (Standalone)
 Arduino Mega 2560 + RAMPS 1.4 + RepRapDiscount Smart Controller
 
