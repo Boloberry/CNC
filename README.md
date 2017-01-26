@@ -1,8 +1,14 @@
-# CNC
-CNC Maduixa basado en Marlin RC8
+[Maduixa CNC](http://www.boloberry.com/82-cnc-maduixa "Maduixa CNC")
+### by Boloberry
 
-Firmware para Fresadora CNC (Standalone)
-Arduino Mega 2560 + RAMPS 1.4 + RepRapDiscount Smart Controller
+####Características:
+- Fresadora CNC de 3 ejes
+- Puede fresar, mecanizar, taladrar, serigrafiar, grabar PCBs, dibujar y cortar, entre otros
+- Dispone de un soporte universal para poder utilizar cualquier herramienta
 
-Menu para controlar la CNC desde la pantalla y cargar archivos gcode sin la necesidad de tener la CNC conectada al ordenador.
-Salida de eje Y y eje Z cambiada (Permite utilizar el eje Y con dos motores)
+![Maduixa CNC]({{site.baseurl}}/www.boloberry.com/323-thickbox_default/fresadora-maduixa-cnc.jpg)
+
+
+
+
+
