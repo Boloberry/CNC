@@ -1,4 +1,4 @@
-[Maduixa CNC](http://www.boloberry.com/82-cnc-maduixa "Maduixa CNC")
+#[Maduixa CNC](http://www.boloberry.com/82-cnc-maduixa "Maduixa CNC")
 ### by Boloberry
 
 ####Características:
@@ -6,9 +6,4 @@
 - Puede fresar, mecanizar, taladrar, serigrafiar, grabar PCBs, dibujar y cortar, entre otros
 - Dispone de un soporte universal para poder utilizar cualquier herramienta
 
-![Maduixa CNC]({{site.baseurl}}/www.boloberry.com/323-thickbox_default/fresadora-maduixa-cnc.jpg)
-
-
-
-
-
+![Maduixa CNC](http://www.boloberry.com/323-thickbox_default/fresadora-maduixa-cnc.jpg)
