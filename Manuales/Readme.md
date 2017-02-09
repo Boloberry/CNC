@@ -3,8 +3,6 @@
 
 ####Lista de Manluales:
 - Montaje de Maduixa CNC
-- Control LCD
-- F-Engrave
-- Estlcam
+- Manual de uso CNC
 
 ![Maduixa CNC](http://www.boloberry.com/323-thickbox_default/fresadora-maduixa-cnc.jpg)
